@@ -1,0 +1,8 @@
+{
+  "name":"cloud-based-blood-bank-management-system",
+  "version":"1.0.0",
+  "description":"Cloud-Based Blood Bank Management System",
+  "main":"server.js",
+  "scripts":{"start":"node server.js"},
+  "dependencies":{"express":"^4.21.2"}
+}
